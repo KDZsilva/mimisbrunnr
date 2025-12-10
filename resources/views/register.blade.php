@@ -24,7 +24,7 @@
                         <input type="text" placeholder="Nome de Usuário" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <input type="email" placeholder="example@email.com" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <input type="password" placeholder="********" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
-                        <button class="w-full px-3 py-4 rounded-lg bg-[#FFC700] text-lg font-bold">Login</button>
+                        <button class="w-full px-3 py-4 rounded-lg bg-[#FFC700] text-lg font-bold">Cadastre-se</button>
                     </form>
                 </div>
                 <div class="flex w-full h-fit justify-center items-center gap-6">
@@ -46,14 +46,14 @@
                                 <path fill="none" d="M0 0h48v48H0z"></path>
                             </svg>
                             </div>
-                            <span class="gsi-material-button-contents">Sign in with Google</span>
-                            <span style="display: none;">Sign in with Google</span>
+                            <span class="gsi-material-button-contents">Sign up with Google</span>
+                            <span style="display: none;">Sign up with Google</span>
                         </div>
                     </button>
                 </div>
                 <div class="flex w-full h-fit justify-center gap-1">
-                    <p class="text-white font-bold text-base">Ainda não tem conta?</p>
-                    <a href="" class="text-[#FFC700] underline">Cadastre-se</a>
+                    <p class="text-white font-bold text-base">Já tem conta?</p>
+                    <a href="" class="text-[#FFC700] underline">Login</a>
                 </div>
             </div>
             <div class="flex w-full h-full">
