@@ -21,6 +21,7 @@
                 </div>
                 <div class="flex w-full h-fit">
                     <form action="" class="flex flex-col w-full h-fit justify-center items-center gap-3 text-base">
+                        <input type="text" placeholder="Nome de Usuário" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <input type="email" placeholder="example@email.com" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <input type="password" placeholder="********" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <button class="w-full px-3 py-4 rounded-lg bg-[#FFC700] text-lg font-bold">Login</button>
