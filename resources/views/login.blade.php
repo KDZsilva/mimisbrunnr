@@ -16,7 +16,7 @@
     <body class="bg-[#ffffff] dark:bg-[#ffffff] text-[#1b1b18] flex items-center lg:justify-center w-screen h-screen flex-col">
         <div class="flex h-full w-full">
             <div class="flex w-full h-full">
-                <img src="/assets/images/login-background.png" alt="" class="w-full h-full object-cover">
+                <img src="/assets/images/login-background-2.png" alt="" class="w-full h-full object-cover">
             </div>
             <div class="flex flex-col justify-center items-center w-full h-full bg-[#000000] dark:bg-[#000000] gap-8 px-10">
                 <div class="w-48 h-48">
