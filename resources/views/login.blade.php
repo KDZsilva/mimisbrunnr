@@ -55,7 +55,7 @@
                 </div>
                 <div class="flex w-full h-fit justify-center gap-1">
                     <p class="text-white font-bold text-base">Ainda não tem conta?</p>
-                    <a href="/register" class="text-[#FFC700] underline">Cadastre-se</a>
+                    <a href="/register" class="text-[#FFC700] hover:underline">Cadastre-se</a>
                 </div>
             </div>
         </div>

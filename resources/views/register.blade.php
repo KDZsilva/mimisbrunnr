@@ -53,7 +53,7 @@
                 </div>
                 <div class="flex w-full h-fit justify-center gap-1">
                     <p class="text-white font-bold text-base">Já tem conta?</p>
-                    <a href="/" class="text-[#FFC700] underline">Login</a>
+                    <a href="/" class="text-[#FFC700] hover:underline">Login</a>
                 </div>
             </div>
             <div class="flex w-full h-full">
