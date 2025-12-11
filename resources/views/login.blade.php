@@ -26,6 +26,9 @@
                     <form action="" class="flex flex-col w-full h-fit justify-center items-center gap-3 text-base">
                         <input type="email" placeholder="example@email.com" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
                         <input type="password" placeholder="********" required class="w-full px-3 py-4 rounded-lg bg-[#ffffff]">
+                        <div class="flex w-full h-fit justify-end">
+                            <a href="/" class="text-sm text-[#FFC700] hover:underline">Esqueceu a senha?</a>
+                        </div>
                         <button class="w-full px-3 py-4 rounded-lg bg-[#FFC700] text-lg font-bold">Login</button>
                     </form>
                 </div>
