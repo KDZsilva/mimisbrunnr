@@ -18,7 +18,7 @@
             <div class="flex w-full h-full">
                 <img src="/assets/images/login-background-2.png" alt="" class="w-full h-full object-cover">
             </div>
-            <div class="flex flex-col justify-center items-center w-full h-full bg-[#000000] dark:bg-[#000000] gap-8 px-10">
+            <div class="flex flex-col justify-center items-center w-full h-full bg-[#000000] dark:bg-[#000000] gap-8 px-40 py-7">
                 <div class="w-48 h-48">
                     <img src="/assets/images/logo/logo-transparent.png" alt="" class="w-full h-full">
                 </div>
