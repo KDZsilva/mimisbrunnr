@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="flex w-full h-full">
-                <img src="/assets/images/login-background.png" alt="" class="w-full h-full object-cover">
+                <img src="/assets/images/login-background-2.png" alt="" class="w-full h-full object-cover transform-x-scale-[-1]">
             </div>
         </div>
     </body>
