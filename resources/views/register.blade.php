@@ -15,7 +15,7 @@
     </head>
     <body class="bg-[#ffffff] dark:bg-[#ffffff] text-[#1b1b18] flex items-center lg:justify-center w-screen h-screen flex-col">
         <div class="flex h-full w-full">
-            <div class="flex flex-col justify-around items-center w-full h-full bg-[#000000] dark:bg-[#000000] px-10 py-7">
+            <div class="flex flex-col justify-around items-center w-full h-full bg-[#000000] dark:bg-[#000000] px-40 py-7">
                 <div class="w-32 h-32">
                     <img src="/assets/images/logo/logo-transparent.png" alt="" class="w-full h-full">
                 </div>
