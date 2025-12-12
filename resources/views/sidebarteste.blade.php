@@ -14,5 +14,5 @@
         <link rel="stylesheet" href="{{asset('css/google.css')}}">
     </head>
     <body class="bg-[#ffffff] dark:bg-[#ffffff] text-[#1b1b18] flex w-screen h-screen">
-        <x-navbar />
+        <x-sidebar />
     </body>
