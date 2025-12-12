@@ -8,6 +8,6 @@ Route::get('/', function(){
 Route::get('/register', function(){
     return view('register');
 });
-Route::get('/testnavbar', function(){
-    return view('navbarteste');
+Route::get('/testnsidebar', function(){
+    return view('sidebarteste');
 });
