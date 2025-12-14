@@ -18,6 +18,7 @@
         </div>
     </div>
     <div class="w-full h-fit flex flex-col items-center gap-4">
+        <img src="{{ asset('storage/' . 'avatars/default.png') }}" alt="" class="w-10 h-10">
         <a href="/login" class="w-full h-fit flex justify-center">
             <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentcolor" class="bi bi-gear text-2xl text-white hover:text-[#FFC700] transition" viewBox="0 0 16 16">
                 <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492M5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0"/>
