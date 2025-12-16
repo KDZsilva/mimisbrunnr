@@ -13,7 +13,9 @@
 
         <link rel="stylesheet" href="{{asset('css/google.css')}}">
     </head>
-    <body class="bg-[#ffffff] dark:bg-[#ffffff] text-[#1b1b18] flex w-screen h-screen">
+    <body class="bg-[#ffffff] dark:bg-[#ffffff] text-[#1b1b18] flex w-screen min-h-screen">
         @include('components.sidebar')
-        {{ $slot }}
+        <div class="w-full min-h-full">
+            {{ $slot }}
+        </div>
     </body>
